@@ -1,0 +1,1 @@
+<aside class="sidebar" aria-label="Admin navigation"><a href="<?=e(app_url('admin/dashboard.php'))?>">Overview</a><a href="<?=e(app_url('admin/students.php'))?>">Students</a><a href="<?=e(app_url('admin/events.php'))?>">Events</a><a href="<?=e(app_url('event.php'))?>">Public events</a></aside>

@@ -1,0 +1,2 @@
+<?php http_response_code(403); ?>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Access denied · StudentHub</title><link rel="stylesheet" href="<?= e(app_url('style.css')) ?>"></head><body><main class="narrow-page"><section class="panel"><p class="eyebrow">403 · ACCESS DENIED</p><h1>This page is restricted</h1><p>Your account does not have permission to view this page.</p><a class="button" href="<?= e(app_url('index.php')) ?>">Return home</a></section></main></body></html>

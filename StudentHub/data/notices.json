@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Event registrations are open",
+    "date": "2026-10-24",
+    "message": "Browse the Events page and register for an activity that matches your interests."
+  },
+  {
+    "id": 2,
+    "title": "Career readiness week",
+    "date": "2026-10-28",
+    "message": "Resume reviews and mock interview practice sessions are planned for students."
+  },
+  {
+    "id": 3,
+    "title": "Keep your profile updated",
+    "date": "2026-11-01",
+    "message": "Check that your course, year and contact details are correct in your student profile."
+  }
+]

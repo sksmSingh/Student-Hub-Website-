@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Fest 2026",
+    "description": "A two-day event featuring coding competitions, robotics exhibitions, gaming tournaments, and project showcases.",
+    "type": "Technical",
+    "date": "2026-11-02"
+  },
+  {
+    "id": 2,
+    "title": "Career Guidance Seminar",
+    "description": "Industry professionals share career advice, interview tips, and information about the latest technology trends.",
+    "type": "Career",
+    "date": "2026-11-07"
+  },
+  {
+    "id": 3,
+    "title": "Annual Cultural Fest",
+    "description": "Enjoy music, dance, drama, and various cultural performances by students.",
+    "type": "Cultural",
+    "date": "2026-11-15"
+  },
+  {
+    "id": 4,
+    "title": "Coding Workshop",
+    "description": "A practical workshop where students learn programming concepts and solve coding problems.",
+    "type": "Technical",
+    "date": "2026-11-20"
+  },
+  {
+    "id": 5,
+    "title": "Resume Building Workshop",
+    "description": "Learn how to create an effective resume and present your skills to recruiters.",
+    "type": "Career",
+    "date": "2026-11-26"
+  },
+  {
+    "id": 6,
+    "title": "Photography Competition",
+    "description": "Students can participate in a photography competition and showcase their creativity.",
+    "type": "Cultural",
+    "date": "2026-12-03"
+  }
+]

@@ -1,0 +1,5 @@
+</main>
+<footer class="site-footer"><div><a class="footer-brand" href="<?= e(app_url('index.php')) ?>">StudentHub</a><p>Learn · Create · Innovate</p></div><div class="footer-links"><a href="<?= e(app_url('course.php')) ?>">Courses</a><a href="<?= e(app_url('event.php')) ?>">Events</a><a href="<?= e(app_url('contact.php')) ?>">Contact</a></div><p class="copyright">© <?= date('Y') ?> StudentHub. Academic project demonstration.</p></footer>
+<div class="modal-backdrop" id="enquiryModal" hidden><section class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><button class="modal-close" id="closeModal" type="button" aria-label="Close dialog">×</button><p class="eyebrow">LET'S TALK</p><h2 id="modalTitle">Have a question?</h2><p>Our campus team can help with courses, admissions, events and student services.</p><a class="button" href="<?= e(app_url('contact.php')) ?>">Contact the college</a></section></div>
+<script src="<?= e(app_url('assets/js/app.js')) ?>" defer></script>
+</body></html>

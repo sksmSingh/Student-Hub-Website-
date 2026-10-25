@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": "How do I register?",
+    "answer": "Open Register, fill out the student form and submit it."
+  },
+  {
+    "id": 2,
+    "question": "How do I sign in?",
+    "answer": "Use the username or email and password you registered with."
+  },
+  {
+    "id": 3,
+    "question": "How do I register for an event?",
+    "answer": "Sign in as a student, then select an event from the Events page."
+  }
+]
